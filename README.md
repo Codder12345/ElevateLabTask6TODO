@@ -1,4 +1,4 @@
-<img width="685" height="470" alt="image" src="https://github.com/user-attachments/assets/d302226b-acd6-4129-8b59-4d1b41424bf7" /># Java Swing To-Do List App
+# Java Swing To-Do List App
 
 A simple desktop To-Do list application built with **Java Swing**.
 
