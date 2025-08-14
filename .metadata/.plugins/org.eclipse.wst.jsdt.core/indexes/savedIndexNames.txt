@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+F:\ToDoAppTask6\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1093075149.index
